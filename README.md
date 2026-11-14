@@ -49,7 +49,7 @@ Projeyi kendi bilgisayarınızda geliştirmek veya incelemek isterseniz:
 ### Adımlar
 
 # 1. Depoyu klonlayın
-git clone https://github.com/kullanici_adin/dogrudan-temin.git
+git clone https://github.com/kurufasulye02/dogrudan-temin.git
 cd dogrudan-temin
 
 # 2. Sanal ortam oluşturun ve aktifleştirin
