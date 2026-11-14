@@ -1,0 +1,7 @@
+ttkbootstrap
+tkcalendar
+python-docx
+openpyxl
+matplotlib
+et-xmlfile
+requests
